@@ -155,5 +155,5 @@ Attended the CISMR Robotics Workshop at SVNIT Surat (28–30 March 2025), where 
   <img src="line_Follower_certificate.jpg" alt="CISMR Robotics Workshop participation certificate" width="500">
 </p>
 
-## Workshop
-Sadhana Devarajan, SVNIT
+## Author
+Sadhana Devarajan & Team, SVNIT
