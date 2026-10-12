@@ -2,8 +2,9 @@
 
 A two-wheel line-following robot built on an Arduino Uno and an Adafruit-style L293D motor shield. It started as a team project with simple if/else steering and was rewritten around a weighted-position PID controller with proper line-loss handling.
 
-<!-- TODO: add a photo of the robot and a short video/GIF of it following a track -->
-<!-- ![robot](docs/robot.jpg) -->
+<p align="center">
+  <img src="line_follower_Robot.jpg" alt="Line follower robot with five IR sensors" width="450">
+</p>
 
 ## Features
 
@@ -115,8 +116,6 @@ g++ -std=c++17 -O1 -I. -I../line_follower -o sim sim_main.cpp
 ./sim
 ```
 
-<!-- TODO: replace or add a row with your measured real-robot lap time / track results -->
-
 ## Troubleshooting
 
 | Symptom | Likely cause |
@@ -148,6 +147,13 @@ Issues found in the earlier versions and fixed in v4: the lost-line search re-ch
 - Junction decision logic (turn left/right at marked intersections)
 - Higher-resolution sensor array
 
-## Authors
+## Workshop
 
-<!-- TODO: your name, college, and teammates; link to the team -->
+Attended the CISMR Robotics Workshop at SVNIT Surat (28–30 March 2025), where the line follower fundamentals were covered.
+
+<p align="center">
+  <img src="line_Follower_certificate.jpg" alt="CISMR Robotics Workshop participation certificate" width="500">
+</p>
+
+## Workshop
+Sadhana Devarajan, SVNIT
